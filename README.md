@@ -11,13 +11,13 @@ Equation: <code>y = mx + c</code>
 1. Loss function: <code>|x - x<sub>i</sub>|<sup>1</sup></code>
 ```python
 Iterations: 2000
-learning rate: 0.0001
+Learning rate: 0.0001
 The final loss for this model: -0.043649895876628514
 ```
 2. Loss function: <code>|x - x<sub>i</sub>|<sup>3</sup></code>
 ```python
 Iterations: 2000
-learning rate: 0.0001
+Learning rate: 0.0001
 The final loss for this model: -0.00038246939204274676
 ```
 
@@ -30,13 +30,13 @@ Equation: <code>y = ax<sup>2</sup> + bx + c</code>
 1. Loss function: <code>|x - x<sub>i</sub>|<sup>4</sup></code>
 ```python
 Iterations: 5000
-learning rate: 0.001
+Learning rate: 0.001
 The final loss for this model: 0.00043381989579868225
 ```
 2. Loss function: <code>|x - x<sub>i</sub>|<sup>7</sup></code>
 ```python
 Iterations: 5000
-learning rate: 0.00001
+Learning rate: 0.00001
 The final loss for this model: -2.1841120256905214e-07
 ```
 Although the loss for the second model is less than the first the first model seems to fit better to the dataset.
