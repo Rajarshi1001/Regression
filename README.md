@@ -4,7 +4,7 @@ This repo has 2 notebooks based on Linear Regression which uses two different lo
 
 The loss functions involves the predicted value from the model <code>x<sub>i</sub></code> and the actual value <code>x</code> . The loss function actually describes the amout of error between the two values and the model optimizes the loss function using the `Gradient Descent` Algorithm.
 
--__Linear Regression__
+- __Linear Regression__
 
 Equation: <code>y = mx + c</code>
 
@@ -23,7 +23,7 @@ The final loss for this model: -0.00038246939204274676
 
 Thus the second loss function <code>|x - x<sub>i</sub>|<sup>3</sup></code> seems to perform better on the dataset generated.
 
--__Polynomial Regression__
+- __Polynomial Regression__
 
 Equation: <code>y = ax<sup>2</sup> + bx + c</code>
 
