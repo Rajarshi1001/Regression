@@ -1,6 +1,6 @@
 # Regression Notebooks
 
-This repo has __4__ Notebooks based on Linear Regression which uses two different loss function for evaluating the total loss of the model.The overall fit is pretty good.
+This repo has __4__ Notebooks based on Linear Regression which uses four different loss function for evaluating the total loss of the model.The overall fit is pretty good.
 
 The loss functions involves the predicted value from the model <code>x<sub>i</sub></code> and the actual value <code>x</code> . The loss function actually describes the amout of error between the two values and the model optimizes the loss function using the `Gradient Descent` Algorithm.
 
